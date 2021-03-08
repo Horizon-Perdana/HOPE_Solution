@@ -3,4 +3,4 @@ Since I could not attach the codes of my creation for my company, this repositor
 
 [![Watch the video](https://github.com/panjoel4/Python_for_Geoscientist-Pycon2020/blob/main/Images/thumbnail.PNG)](https://www.youtube.com/watch?v=UQr0DEzQQyw)
 
-To understand more about this, please visit our company website here http://horizon-perdana.co.id/products/hope-solution/
+To learn more about this project, please visit our company website here http://horizon-perdana.co.id/products/hope-solution/
