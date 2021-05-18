@@ -1,0 +1,7 @@
+HOPE Solution is a web-application that was built for the data management service business line of PT Horizon Perdana Internasional.
+
+This application built on Django framework as the front end deployment. Behind the user-based request on the front, there were several customized process behind the application. To mention, we connect and transform dataset from multiple source. In many cases we pool most of the data on SQL-based database. However, we also able to process data from other format and even from provided APIs service.
+
+Not only to manage dan display the data on a web-based dashboard, we were challenged by our clients to implement several machine learning algorithm to answer their needs.
+
+More details about the actual product could be seen here: http://horizon-perdana.co.id/products/hope-solution/
